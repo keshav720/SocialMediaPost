@@ -5,8 +5,11 @@ Maven
 
 ## Steps
 1.Clone the repository using git clone
+
 2.cd SocialMediaPost
+
 3.Build the project using command-: mvn clean install
+
 4.Run the application ,The application will be accessible at http://localhost:8080.
 
 ##
