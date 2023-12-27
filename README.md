@@ -1,9 +1,9 @@
 ## Prerequisites
-Java 11 or higher
+1.Java 11 or higher
 
-MongoDB
+2.MongoDB
 
-Maven
+3.Maven
 
 ## Steps
 1.Clone the repository using git clone
