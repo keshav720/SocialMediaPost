@@ -1,6 +1,8 @@
 ## Prerequisites
 Java 11 or higher
+
 MongoDB
+
 Maven
 
 ## Steps
